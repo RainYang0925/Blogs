@@ -169,7 +169,7 @@ static BOOL isSwizzed;
 ![FilterURL](http://img.blog.csdn.net/20150806160135039)
 
 ##3. github 下载地址
-[github 地址 在这里 ](https://github.com/elisaxu/UIViewController-XUXSwizz)
+[github 地址 在这里 ](https://github.com/elisaxu/Drogon)
 
 上面有使用说明和一个小 demo，欢迎大家使用。
 
