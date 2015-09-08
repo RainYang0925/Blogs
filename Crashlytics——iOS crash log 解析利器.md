@@ -40,6 +40,7 @@ Crashlytic 成立于2011年，是专门为移动应用开者发提供的保存�
 ![framework](http://bos.nj.bpc.baidu.com/v1/agroup/53aa3ea1b30236d6d7d6757538d201ff5480364b)
 
 按照提示做完之后，就到了最后一步了，在AppDelegate
+
 ```objective-c
 #import <Fabric/Fabric.h>
 #import <Crashlytics/Crashlytics.h>
@@ -54,6 +55,9 @@ build setting里设置
 
 手动触发一个 crash，可以在Crashlytics的dashboard里看到了
 ![图片](http://bos.nj.bpc.baidu.com/v1/agroup/96e674d9218ed0c82a1cb86f792205b6755a31c9)
+
+##demo
+放在我的 github 上，[地址这里](https://github.com/elisaxu/Example/tree/master/CrashlyticsDemo)。
 
 ##实现原理和使用体会
 
