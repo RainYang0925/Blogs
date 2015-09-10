@@ -19,6 +19,7 @@ Crashlytic 成立于2011年，是专门为移动应用开者发提供的保存�
 
  1. mac 系统
  2. 可以访问外国网站（用代理或公司内部代理）
+ 3. 下载 [fabric](https://ssl-download-crashlytics-com.s3.amazonaws.com/fabric/builds/Fabric-latest.zip)
 
 ###步骤
 进入[Crashlytics官网](http://try.crashlytics.com/) ，注册一个账户。
@@ -79,3 +80,4 @@ build setting里设置
 [Crashlytics dSYM error](http://stackoverflow.com/questions/28614509/crashlytics-dsym-error)
 [Crashlytics file not found](http://stackoverflow.com/questions/17754233/crashlytics-file-not-found)
 [Crashlytics is not sending Crash report from iPhone](http://stackoverflow.com/questions/17818428/crashlytics-is-not-sending-crash-report-from-iphone)
+[集成crashlystics](http://ezrohir.github.io/2014/12/19/%E9%9B%86%E6%88%90crashlytics.html)
