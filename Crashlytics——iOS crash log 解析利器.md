@@ -76,6 +76,12 @@ build setting里设置
 
 值得一提的是，Crashlytics本身的官方文档也非常健全，如果你在使用中遇到任何问题，也可以上去查看详细的文档。
 
+#遇到的坑
+1）info.plist 中没有通过 mac 端应用程序成功导入 APIKey
+![info.plist](http://img.blog.csdn.net/20150915154248370)
+会导致进入 APP时 crash,报以下错误：
+![无 info 报错](http://img.blog.csdn.net/20150915154458816)
+
 #FAQ
 [Crashlytics dSYM error](http://stackoverflow.com/questions/28614509/crashlytics-dsym-error)
 [Crashlytics file not found](http://stackoverflow.com/questions/17754233/crashlytics-file-not-found)
