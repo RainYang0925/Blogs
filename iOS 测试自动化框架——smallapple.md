@@ -1,6 +1,6 @@
 继上面几篇博客所讲的 iOS 专项测试，本篇给大家介绍一款好用的自动化测试框架——smallapple。
 
-该框架由百度移动云测试部的同事开源在 github上，我 fork了一个分支进行二次开发。下面我先来讲一下这个框架的用法，跟官网上有些不同，因为在使用过程中遇到一些钉子，在此文中也给大家一一指出，防止重复踩坑。
+该框架由百度移动云测试部的同事开源在 github上，下面我先来讲一下这个框架的用法，跟官网上有些不同，因为在使用过程中遇到一些钉子，在此文中也给大家一一指出，防止重复踩坑。
 
 
 ----------
@@ -8,7 +8,7 @@
 
 ##1. smallapple简介
 ###1）下载地址
-github：https://github.com/elisaxu/smallapple
+github：[https://github.com/hyxbiao/smallapple](https://github.com/hyxbiao/smallapple)
 ###2）介绍
 Smallapple是一个开源的IOS自动化测试工具，旨在提供一套完整的IOS自动化测试解决方案，提供针对IOS App的功能和性能测试，同时提供类似Android adb、重签名、instruments结果解析、录制回放等工具集。
 
